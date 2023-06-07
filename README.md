@@ -10,12 +10,13 @@ Hadoop Environment
 # Prepare input data
 
 Commands:
-
-  '$ mkdir PiCalculation'
+'''
+  $ mkdir PiCalculation
   $ cd PiCalculation
   $ vi GenerateRandomNumbers.java
   $ javac GenerateRandomNumbers.java
   $ java -cp . GenerateRandomNumbers
+'''
 
 # Setup passphraseless ssh
 
