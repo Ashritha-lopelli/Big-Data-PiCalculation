@@ -7,7 +7,7 @@ Hadoop Environment
 
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/1ee28c20-e5e2-4975-a555-fdaef0b9e7a1)
 
-Prepare input data
+# Prepare input data
 
 Commands:
 
@@ -17,7 +17,7 @@ Commands:
   $ javac GenerateRandomNumbers.java
   $ java -cp . GenerateRandomNumbers
 
-Setup passphraseless ssh
+# Setup passphraseless ssh
 
 check that you can ssh to the localhost without a passphrase:
 
@@ -33,7 +33,7 @@ If you cannot ssh to localhost without a passphrase, execute the following comma
 
  ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/1cfdcb79-2c74-4540-b118-39e17e06bdf2)
 
-Make the HDFS directories required to execute MapReduce jobs(Copy input data to HDFS)
+# Make the HDFS directories required to execute MapReduce jobs(Copy input data to HDFS)
 
   $ cd ..
   $ cd hadoop-3.3.4/
@@ -53,7 +53,7 @@ Make the HDFS directories required to execute MapReduce jobs(Copy input data to 
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/07d64bff-a124-4c78-8c58-91fde0660d38)
 
 
-Code preparation
+# Code preparation
 
 Build PiCalculation java file
 
@@ -68,7 +68,7 @@ Compile PiCalculation.java and create a jar
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/64653fce-154e-4a4f-a107-3097d7d3952d)
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/8bde7f1a-2e0b-428c-beeb-7df201ed7294)
   
-Run
+# Run
 
 Execute
 
