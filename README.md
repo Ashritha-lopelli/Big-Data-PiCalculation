@@ -11,7 +11,7 @@ Hadoop Environment
 
 Commands:
 
-  $ mkdir PiCalculation
+  '$ mkdir PiCalculation'
   $ cd PiCalculation
   $ vi GenerateRandomNumbers.java
   $ javac GenerateRandomNumbers.java
@@ -48,8 +48,11 @@ If you cannot ssh to localhost without a passphrase, execute the following comma
 
 
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/64648a9f-b841-4aff-bfa9-9b44fe6590b8)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/acda0ca7-7361-4ce7-a620-b0b0f94894b4)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/3d69f49c-adf8-4516-be6d-b4d0a63be321)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/07d64bff-a124-4c78-8c58-91fde0660d38)
 
 
@@ -66,6 +69,7 @@ Compile PiCalculation.java and create a jar
   $ jar cf wc.jar PiCalculation*class 
 
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/64653fce-154e-4a4f-a107-3097d7d3952d)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/8bde7f1a-2e0b-428c-beeb-7df201ed7294)
   
 # Run
@@ -81,7 +85,9 @@ Output
 
   
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/607d10e3-f1ea-43ae-9201-518ba9ba833d)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/04e852c5-4be2-4a87-80c0-faa4cbca8737)
+
 ![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/35344a0d-06fe-496d-80e0-fdca85193196)
 
 
