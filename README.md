@@ -99,14 +99,3 @@ Stop
 
 
 
-
- 
-
- 
-
- 
-
-
- 
-![image](https://github.com/Ashritha-lopelli/Big-Data-PiCalculation/assets/124090003/fbe92c8a-81c8-4c4f-bcdc-3a01bf512519)
-
